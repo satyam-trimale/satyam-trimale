@@ -36,7 +36,7 @@ Passionate about building efficient, scalable and AI-powered web apps.
 
 ![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam-trimale&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-trimale&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-trimale&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=satyam-trimale&theme=tokyonight)
 
 ---
 
