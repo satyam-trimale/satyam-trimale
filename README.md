@@ -47,8 +47,8 @@ Passionate about building efficient, scalable and AI-powered web apps.
 
 ## 🚀 Projects I'm Proud Of
 - 🔗 [LifeLink](https://github.com/rbhavesh1525/LifeLink): A real-time hospital transfer system
+- 💬 [Chat App](https://github.com/satyam-trimale/Chat-App): Real-time chat app with E2EE using Socket.io
 - 🧠 [AI-Powered-Youtube](https://github.com/satyam-trimale/AI-Powered-Youtube): A YouTube Clone with AI features
-- 💬 [Chat App](https://github.com/satyam-trimale/Chat-App): Real-time chat using Socket.io
 
 ---
 
